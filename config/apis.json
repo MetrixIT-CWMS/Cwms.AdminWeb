@@ -1,0 +1,37 @@
+{
+  "BaseUrlAPI": "https://infapi.skillworksit.com/cwmsapi/",
+  "PostAdUserLoginAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/auth-login",
+  "GetAdUserLogoutAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/auth-logout",
+
+  "PostAdUsersListAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/adusers/list",
+  "PostAdUsersCreateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/create",
+  "PutAdUserUpdateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/update/",
+  "PutAdUserStatsUpdateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/status/update/",
+  "PutAdUserPswdUpdateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/password/update/",
+
+  "PostJobsListAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/companies/jobs/list",
+  "PostJobCreateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/companies/job/create",
+  "PutJobUpdateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/companies/job/update",
+  "PutJobStatusUpdateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/companies/job/status/update",
+  "GetJobLyfCycleListAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/companies/job/lfcs/list/",
+  "GetJobsTotalListAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/companies/jobs/total/list",
+
+  "GetAdUserProfileViewAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/profile/view",
+  "PostAdUserResetPswrdAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/reset/pswd",
+  "PutAdUserPrfleUpdateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/profile/update",
+
+  "PostAdUserFrgtPswdSndOtpAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/forgot-pswrd/send-otp",
+  "PostAdUserFrgtPswdVrfyOtpAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/forgot-pswrd/verify-otp",
+  "PostAdUserFrgtPswdResetAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/forgot-pswd/reset",
+
+  "PostAdJbApplictnListAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/cmp-job/applications/list",
+  "PostAdJbApplicantCreateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/cmp-job/application/create/",
+  "PutAdJbApplicantUpdateAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/cmp-job/application/update/",
+  "PostAdPdfViewAPI": "https://infapi.skillworksit.com/cwmsapi/cwms/v1/cmp-job/signed-pdf",
+
+  "PostCiepalApplicantsResumesListAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aplcnts/resumes/list",
+  "PostCiepalApplicantsResumesTotalListAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aplcnts/resumes/total/list",
+  "GetCiepalClientsListAPI": "https://infapi.skillworksit.com/cwmsapi/cwms/v1/clients/list",
+
+  "PutUpdatePswrdAPI": "https://infapi.skillworksit.com/cwmsapi/adcwms/v1/aduser/update/pswd"
+}
